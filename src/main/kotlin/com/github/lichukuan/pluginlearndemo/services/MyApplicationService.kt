@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lichukuan.pluginlearndemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lichukuan.pluginlearndemo.MyBundle
 
 class MyApplicationService {
 
